@@ -21,5 +21,5 @@ This project provides a comprehensive analysis of sales performance, profitabili
 - **Seasonal Trends:** Sales peaked significantly in USA, suggesting a need for increased inventory.
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot]([link-to-your-image-here.png](https://github.com/SagarBegins/Financial-report-for-4-qu/blob/main/financial%20repot%20profit.png))
+![Dashboard Screenshot] https://github.com/SagarBegins/Financial-report-for-4-qu/blob/main/financial%20repot%20profit.png
 
