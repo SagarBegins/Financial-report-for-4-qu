@@ -1,4 +1,4 @@
-# Financial-report-for-4-qu
+# Financial-report-for-company
 # Sales Performance & Profitability Analysis (Power BI)
 
 ## 📊 Project Overview
